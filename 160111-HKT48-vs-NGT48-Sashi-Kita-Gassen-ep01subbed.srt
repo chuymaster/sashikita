@@ -78,7 +78,7 @@ Let's see what is happening in the dressing room!
 
 19
 00:00:54,370 --> 00:00:55,703
-W ow! they look cheerful!
+Wow! they look cheerful!
 
 20
 00:00:55,728 --> 00:00:56,547
