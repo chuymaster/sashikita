@@ -1,0 +1,544 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 160111-HKT48-vs-NGT48-Sashi-Kita-Gassen-ep01subbed
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.56,0:00:05.43,Default,,0,0,0,,HKT48 vs NGT48  SashiKita Furious Battle!!
+Dialogue: 0,0:00:07.26,0:00:08.96,Default,,0,0,0,,Good Evening!
+Dialogue: 0,0:00:10.18,0:00:12.40,Default,,0,0,0,,Good Evening!\NGood Evening! Nice to meet you!
+Dialogue: 0,0:00:12.42,0:00:13.22,Default,,0,0,0,,Nice to meet you
+Dialogue: 0,0:00:13.24,0:00:17.42,Default,,0,0,0,,Such a big scene setting\N but only two of us
+Dialogue: 0,0:00:17.44,0:00:18.36,Default,,0,0,0,,Yes
+Dialogue: 0,0:00:18.39,0:00:19.06,Default,,0,0,0,,It's quite lonely, isn't it?
+Dialogue: 0,0:00:19.08,0:00:20.36,Default,,0,0,0,,Yes, it is
+Dialogue: 0,0:00:20.39,0:00:23.49,Default,,0,0,0,,Actually, other members do not know that\Nwe already started our programme
+Dialogue: 0,0:00:23.51,0:00:24.77,Default,,0,0,0,,Ehh? really?
+Dialogue: 0,0:00:24.80,0:00:25.21,Default,,0,0,0,,Yes!
+Dialogue: 0,0:00:25.24,0:00:28.70,Default,,0,0,0,,It's because our first battle is\N"Dokkiri" so no one knows about this!
+Dialogue: 0,0:00:29.09,0:00:31.43,Default,,0,0,0,,This is such a wicked!
+Dialogue: 0,0:00:34.08,0:00:36.56,Default,,0,0,0,,<The first battle is...
+Dialogue: 0,0:00:36.73,0:00:40.40,Default,,0,0,0,,< to remember the names of the staffs\Nwho they will first meet today!
+Dialogue: 0,0:00:41.31,0:00:44.05,Default,,0,0,0,,<We held this Dokkiri for these two teams
+Dialogue: 0,0:00:44.07,0:00:49.11,Default,,0,0,0,,<to evaluate their necessary skills in the show biz\Nor being entertainers
+Dialogue: 0,0:00:50.22,0:00:52.70,Default,,0,0,0,,Let's see what is happening in the dressing room!
+Dialogue: 0,0:00:54.37,0:00:55.70,Default,,0,0,0,,Wow! they look cheerful!
+Dialogue: 0,0:00:55.72,0:00:56.54,Default,,0,0,0,,This is good, isn't it?
+Dialogue: 0,0:00:56.57,0:01:00.70,Default,,0,0,0,,We told them that camera men\Nwill go into their room to take behind the scene atmosphere
+Dialogue: 0,0:01:00.95,0:01:03.11,Default,,0,0,0,, So don't worry! You will see everything in detail!
+Dialogue: 0,0:01:03.14,0:01:04.14,Default,,0,0,0,,that is great
+Dialogue: 0,0:01:04.52,0:01:06.43,Default,,0,0,0,,but they are too cheerful, aren't they?
+Dialogue: 0,0:01:06.45,0:01:07.45,Default,,0,0,0,,yes
+Dialogue: 0,0:01:07.97,0:01:13.14,Default,,0,0,0,,All right! The staff is going to meet them!
+Dialogue: 0,0:01:16.30,0:01:17.30,Default,,0,0,0,,Good morning!
+Dialogue: 0,0:01:17.32,0:01:18.86,Default,,0,0,0,,Good morning!
+Dialogue: 0,0:01:19.89,0:01:20.89,Default,,0,0,0,,It's started!
+Dialogue: 0,0:01:21.70,0:01:22.70,Default,,0,0,0,,Good morning!
+Dialogue: 0,0:01:22.90,0:01:23.90,Default,,0,0,0,,It looks so real!
+Dialogue: 0,0:01:24.68,0:01:26.28,Default,,0,0,0,,Mori-san can make everyone believe!
+Dialogue: 0,0:01:26.31,0:01:27.31,Default,,0,0,0,,Good evening!
+Dialogue: 0,0:01:27.59,0:01:28.76,Default,,0,0,0,,If it were me, I would also believe this.
+Dialogue: 0,0:01:30.36,0:01:32.25,Default,,0,0,0,,I am the producer, Mori.
+Dialogue: 0,0:01:32.27,0:01:33.28,Default,,0,0,0,,That AD looks strange.
+Dialogue: 0,0:01:33.30,0:01:35.30,Default,,0,0,0,,Nice to meet you
+Dialogue: 0,0:01:35.33,0:01:37.55,Default,,0,0,0,,Before we start recording
+Dialogue: 0,0:01:37.58,0:01:42.86,Default,,0,0,0,,I would like to introduce our staffs\Nalthough some are still not here yet
+Dialogue: 0,0:01:43.42,0:01:43.99,Default,,0,0,0,,yes
+Dialogue: 0,0:01:45.13,0:01:49.18,Default,,0,0,0,,<The first staff is chief producer\NUsui (bald head)
+Dialogue: 0,0:01:49.56,0:01:52.31,Default,,0,0,0,,<and of course he is the faked staff
+Dialogue: 0,0:01:53.08,0:01:58.07,Default,,0,0,0,,I am the chief producer\NUsui, Nice to meet you!
+Dialogue: 0,0:01:58.10,0:02:00.80,Default,,0,0,0,,Nice to meet you too
+Dialogue: 0,0:02:02.02,0:02:04.08,Default,,0,0,0,,ah! Natsumikan can't hold her laugh already. This is bad!
+Dialogue: 0,0:02:04.11,0:02:07.18,Default,,0,0,0,,I have very high hope with this programme
+Dialogue: 0,0:02:07.63,0:02:09.57,Default,,0,0,0,,However, please be safe.
+Dialogue: 0,0:02:10.21,0:02:12.13,Default,,0,0,0,,or else you will  have bald head like me,
+Dialogue: 0,0:02:14.61,0:02:18.62,Default,,0,0,0,,Usui (bald head).
+Dialogue: 0,0:02:18.65,0:02:19.61,Default,,0,0,0,,Bald head, the same as my name, Usui.
+Dialogue: 0,0:02:19.72,0:02:21.72,Default,,0,0,0,,my name may be Usui but\NI really do not want to be bald head.
+Dialogue: 0,0:02:21.93,0:02:23.79,Default,,0,0,0,,Nako and Miku is laughing too out loud
+Dialogue: 0,0:02:23.82,0:02:24.82,Default,,0,0,0,,so cuteee
+Dialogue: 0,0:02:26.04,0:02:29.05,Default,,0,0,0,,< then Usui gives his hand-made rice balls to everyone.
+Dialogue: 0,0:02:29.83,0:02:34.70,Default,,0,0,0,,<Will these young idols eat those hand-made rice balls\Ngiven by their first-met uncle?
+Dialogue: 0,0:02:35.66,0:02:38.06,Default,,0,0,0,,It will be not good if I give only this side so..
+Dialogue: 0,0:02:38.53,0:02:39.86,Default,,0,0,0,,Lovetan got it already! What will she do with it?
+Dialogue: 0,0:02:40.14,0:02:40.82,Default,,0,0,0,,She will never eat it!
+Dialogue: 0,0:02:40.91,0:02:44.89,Default,,0,0,0,,trying to smell it like this is not good...Stop Stop Stop!!
+Dialogue: 0,0:02:47.29,0:02:48.56,Default,,0,0,0,,That is a bad manner here
+Dialogue: 0,0:02:49.88,0:02:52.09,Default,,0,0,0,,Ogiyuka looks displeased
+Dialogue: 0,0:02:52.11,0:02:54.23,Default,,0,0,0,,Yes! NGT Team looks like they are disgusted
+Dialogue: 0,0:02:54.26,0:02:55.95,Default,,0,0,0,,They look a little disgusted
+Dialogue: 0,0:02:56.45,0:02:58.72,Default,,0,0,0,,may be it's because their pride in the rice
+Dialogue: 0,0:02:59.67,0:03:00.99,Default,,0,0,0,,because they are from Niigata??
+Dialogue: 0,0:03:01.01,0:03:01.98,Default,,0,0,0,,Yes, so they can't eat the rice from Tokyo anymore.
+Dialogue: 0,0:03:02.01,0:03:03.51,Default,,0,0,0,,HKT starts having it!
+Dialogue: 0,0:03:03.77,0:03:07.41,Default,,0,0,0,,Ah! Madoka also has it. I'm surprised!
+Dialogue: 0,0:03:07.44,0:03:08.57,Default,,0,0,0,,Ah! Miku is so cute!
+Dialogue: 0,0:03:08.59,0:03:09.59,Default,,0,0,0,,Everyone is having it
+Dialogue: 0,0:03:09.62,0:03:10.62,Default,,0,0,0,,they looks happy having it
+Dialogue: 0,0:03:13.18,0:03:14.18,Default,,0,0,0,,Delicious!
+Dialogue: 0,0:03:14.29,0:03:15.29,Default,,0,0,0,,She also praised it!
+Dialogue: 0,0:03:15.91,0:03:17.71,Default,,0,0,0,,but Lovetan is still not having it
+Dialogue: 0,0:03:19.03,0:03:22.67,Default,,0,0,0,,<Next is an AD who is always fail, Shimada.
+Dialogue: 0,0:03:22.70,0:03:25.10,Default,,0,0,0,,I am Shimada. I am an Assistant Director.
+Dialogue: 0,0:03:25.12,0:03:26.97,Default,,0,0,0,,AKB48, everyone.....
+Dialogue: 0,0:03:27.22,0:03:30.42,Default,,0,0,0,,No, they are not AKB...they are NGT and HGT!!!
+Dialogue: 0,0:03:30.75,0:03:32.14,Default,,0,0,0,,Aren't they AKB?
+Dialogue: 0,0:03:32.18,0:03:32.60,Default,,0,0,0,,Ah!
+Dialogue: 0,0:03:33.95,0:03:36.15,Default,,0,0,0,,You didn't listen when they introduced themselves, didn't you?
+Dialogue: 0,0:03:36.90,0:03:37.90,Default,,0,0,0,,Nice to meet you
+Dialogue: 0,0:03:39.68,0:03:40.68,Default,,0,0,0,,Shimada!
+Dialogue: 0,0:03:42.59,0:03:43.30,Default,,0,0,0,,Shimada!!
+Dialogue: 0,0:03:43.33,0:03:44.80,Default,,0,0,0,,Kind-hearted! Katomina is so kind!
+Dialogue: 0,0:03:44.82,0:03:46.72,Default,,0,0,0,,Sorry. Thank you.
+Dialogue: 0,0:03:48.06,0:03:50.85,Default,,0,0,0,,I will try my best! Nice to meet you!
+Dialogue: 0,0:03:50.87,0:03:51.12,Default,,0,0,0,,Nice to meet you
+Dialogue: 0,0:03:51.15,0:03:52.88,Default,,0,0,0,,It looks like everyone cheers him on instead
+Dialogue: 0,0:03:53.49,0:03:57.89,Default,,0,0,0,,<Next staff is a handsome AP, Ichuin.
+Dialogue: 0,0:03:59.11,0:04:05.74,Default,,0,0,0,,<What will they react to this handsome staff??
+Dialogue: 0,0:04:11.34,0:04:12.34,Default,,0,0,0,,Excuse me
+Dialogue: 0,0:04:15.13,0:04:18.20,Default,,0,0,0,,All HKT members are stunned for a second!!
+Dialogue: 0,0:04:18.23,0:04:18.95,Default,,0,0,0,,It's like they were casted a spell on
+Dialogue: 0,0:04:18.98,0:04:22.23,Default,,0,0,0,,I'd like to introduce myself a little. Please line up.
+Dialogue: 0,0:04:24.76,0:04:26.23,Default,,0,0,0,,They look a little strange.
+Dialogue: 0,0:04:26.26,0:04:27.72,Default,,0,0,0,,They response to him in very different way!
+Dialogue: 0,0:04:27.75,0:04:29.92,Default,,0,0,0,,She smiles explicitly and looks so happy
+Dialogue: 0,0:04:29.95,0:04:32.78,Default,,0,0,0,,I am this programme AP, Ichuin. Nice to meet you.
+Dialogue: 0,0:04:32.80,0:04:35.01,Default,,0,0,0,,Nice to meet you too!
+Dialogue: 0,0:04:35.03,0:04:38.18,Default,,0,0,0,,As I am an AP so\NI will always take care of everyone as much as possible
+Dialogue: 0,0:04:38.20,0:04:39.42,Default,,0,0,0,,so please tell me if you need any help.
+Dialogue: 0,0:04:39.42,0:04:42.16,Default,,0,0,0,,- Will it be ok!?\NYes, please do.
+Dialogue: 0,0:04:42.98,0:04:43.98,Default,,0,0,0,,I am also an AP.
+Dialogue: 0,0:04:44.57,0:04:48.45,Default,,0,0,0,,and I bought some macarons for everyone
+Dialogue: 0,0:04:48.52,0:04:50.12,Default,,0,0,0,,look at every single of them reacting at him
+Dialogue: 0,0:04:50.15,0:04:52.07,Default,,0,0,0,,It's totally different from earlier!
+Dialogue: 0,0:04:52.09,0:04:52.93,Default,,0,0,0,,Yes, it really does
+Dialogue: 0,0:04:52.95,0:04:54.75,Default,,0,0,0,,very different from when they got the rice balls
+Dialogue: 0,0:04:54.78,0:04:55.98,Default,,0,0,0,,It's too different!
+Dialogue: 0,0:04:56.39,0:04:57.62,Default,,0,0,0,,now they are all excited with it
+Dialogue: 0,0:04:58.07,0:04:59.98,Default,,0,0,0,,I am surprised that Katomina likes handsome guy!
+Dialogue: 0,0:05:00.00,0:05:00.70,Default,,0,0,0,,yes, I'm also surprised
+Dialogue: 0,0:05:00.72,0:05:01.72,Default,,0,0,0,,I'm shocked!
+Dialogue: 0,0:05:03.13,0:05:06.70,Default,,0,0,0,,I didn't think they will act totally different like this!
+Dialogue: 0,0:05:06.81,0:05:08.75,Default,,0,0,0,,but look at Nako-chan! She's still having the riceballs!
+Dialogue: 0,0:05:08.77,0:05:09.77,Default,,0,0,0,,Cute one!!
+Dialogue: 0,0:05:10.31,0:05:11.31,Default,,0,0,0,,Still having the riceball
+Dialogue: 0,0:05:11.98,0:05:15.96,Default,,0,0,0,,Everyone! Be ready! Staffs will be ready soon!
+Dialogue: 0,0:05:16.03,0:05:17.10,Default,,0,0,0,,Please wait a little longer.
+Dialogue: 0,0:05:17.12,0:05:17.64,Default,,0,0,0,,yes
+Dialogue: 0,0:05:17.66,0:05:18.66,Default,,0,0,0,,Excuse me
+Dialogue: 0,0:05:18.69,0:05:19.69,Default,,0,0,0,,Thank you
+Dialogue: 0,0:05:21.82,0:05:23.22,Default,,0,0,0,,Ah! She did it again!
+Dialogue: 0,0:05:23.25,0:05:26.66,Default,,0,0,0,,wait wait wait! last time Rika-chan didn't help, did she?
+Dialogue: 0,0:05:27.11,0:05:28.18,Default,,0,0,0,,Rika-chan is interesting
+Dialogue: 0,0:05:28.20,0:05:29.20,Default,,0,0,0,,that's second time
+Dialogue: 0,0:05:29.32,0:05:30.30,Default,,0,0,0,,It's not!
+Dialogue: 0,0:05:30.33,0:05:32.13,Default,,0,0,0,,but she didn't help Shimada-san earlier.
+Dialogue: 0,0:05:36.78,0:05:41.95,Default,,0,0,0,,<Next! Two more staffs will come and greet them.
+Dialogue: 0,0:05:43.46,0:05:45.60,Default,,0,0,0,,I am the Sound staff, Goroumaru.
+Dialogue: 0,0:05:47.96,0:05:52.66,Default,,0,0,0,,My surname is the same as a Rugby player.\Nbut we are not related
+Dialogue: 0,0:05:52.70,0:05:53.70,Default,,0,0,0,,Nice to meet you
+Dialogue: 0,0:05:53.72,0:05:55.43,Default,,0,0,0,,Nice to meet you too
+Dialogue: 0,0:05:55.45,0:05:57.93,Default,,0,0,0,,I am camera man, Nakamura.\NNice to meet you.
+Dialogue: 0,0:05:57.96,0:05:59.87,Default,,0,0,0,,Nice to meet you too
+Dialogue: 0,0:06:00.94,0:06:03.30,Default,,0,0,0,,<This faked camera man, Nakamura. He actually has a great influence on this programme.
+Dialogue: 0,0:06:03.90,0:06:06.48,Default,,0,0,0,,<He actually is
+Dialogue: 0,0:06:06.69,0:06:08.29,Default,,0,0,0,,because He is this TV channel producer!!
+Dialogue: 0,0:06:08.66,0:06:09.13,Default,,0,0,0,,The genuine one
+Dialogue: 0,0:06:09.15,0:06:12.47,Default,,0,0,0,,I am Nakamura. I am\Nthe NTV station's producer
+Dialogue: 0,0:06:13.70,0:06:15.39,Default,,0,0,0,,Nice to meet you
+Dialogue: 0,0:06:15.46,0:06:17.26,Default,,0,0,0,,Nakamura-san. He is in a very high position.
+Dialogue: 0,0:06:17.29,0:06:19.77,Default,,0,0,0,,but now he disguises as a camera man\N- I see
+Dialogue: 0,0:06:19.80,0:06:24.10,Default,,0,0,0,,So if you don't try to remember every staff names seriously and equally\NYou will never be able to memorize it surely
+Dialogue: 0,0:06:24.13,0:06:25.13,Default,,0,0,0,,Yes, I agree
+Dialogue: 0,0:06:26.36,0:06:28.83,Default,,0,0,0,,<After every staff has finished introducing themselves,
+Dialogue: 0,0:06:29.78,0:06:32.94,Default,,0,0,0,,<Now is the time for our fake programme to start!
+Dialogue: 0,0:06:33.52,0:06:36.45,Default,,0,0,0,,This programme will have these two teams fight each other!
+Dialogue: 0,0:06:36.53,0:06:38.26,Default,,0,0,0,,but I am concerned about something
+Dialogue: 0,0:06:39.07,0:06:39.63,Default,,0,0,0,,which is?
+Dialogue: 0,0:06:39.66,0:06:41.55,Default,,0,0,0,,Our 1st class army is not here.
+Dialogue: 0,0:06:42.04,0:06:43.98,Default,,0,0,0,,Eh! Isn't it rude?
+Dialogue: 0,0:06:44.41,0:06:47.38,Default,,0,0,0,,Just take a look! I got Natsumikan here and that made the result cleared!
+Dialogue: 0,0:06:47.40,0:06:49.10,Default,,0,0,0,,3th army is here already!! hahaha!
+Dialogue: 0,0:06:50.64,0:06:51.64,Default,,0,0,0,,Katomina-chan!\N- yes!
+Dialogue: 0,0:06:51.68,0:06:54.15,Default,,0,0,0,,What do you think about your true first TV programme?
+Dialogue: 0,0:06:54.38,0:06:56.20,Default,,0,0,0,,Yes... I feel very thankful.
+Dialogue: 0,0:06:56.22,0:06:57.22,Default,,0,0,0,,to whom?
+Dialogue: 0,0:06:58.70,0:06:59.70,Default,,0,0,0,,NTV? isn't it?
+Dialogue: 0,0:06:59.72,0:07:00.99,Default,,0,0,0,,so you do thank to NTV.
+Dialogue: 0,0:07:01.31,0:07:02.84,Default,,0,0,0,,Let's start our first battle!
+Dialogue: 0,0:07:03.37,0:07:04.83,Default,,0,0,0,,Who got the most powerful arm?
+Dialogue: 0,0:07:04.84,0:07:06.83,Default,,0,0,0,,Furious Arm-wrestle!
+Dialogue: 0,0:07:08.09,0:07:09.50,Default,,0,0,0,,I am just kidding!
+Dialogue: 0,0:07:09.61,0:07:10.61,Default,,0,0,0,,Eh!?
+Dialogue: 0,0:07:12.81,0:07:14.70,Default,,0,0,0,,Today battle actually is
+Dialogue: 0,0:07:14.73,0:07:17.60,Default,,0,0,0,,Which side can remember the staffs names more?!!!
+Dialogue: 0,0:07:23.03,0:07:25.98,Default,,0,0,0,,Everyone! Take it easy!
+Dialogue: 0,0:07:26.01,0:07:27.21,Default,,0,0,0,,Are you ok? Yamada-san
+Dialogue: 0,0:07:27.23,0:07:27.96,Default,,0,0,0,,Yamada-san?
+Dialogue: 0,0:07:27.98,0:07:28.48,Default,,0,0,0,,yes...
+Dialogue: 0,0:07:28.50,0:07:30.15,Default,,0,0,0,,Your face is funny, Yamada-san.
+Dialogue: 0,0:07:30.92,0:07:32.19,Default,,0,0,0,,No! My face is cute!
+Dialogue: 0,0:07:32.40,0:07:33.96,Default,,0,0,0,,Cute face!!
+Dialogue: 0,0:07:34.81,0:07:35.51,Default,,0,0,0,,Fight!
+Dialogue: 0,0:07:39.26,0:07:40.26,Default,,0,0,0,,Charge!!
+Dialogue: 0,0:07:45.64,0:07:47.63,Default,,0,0,0,,SashiKita furious battle!
+Dialogue: 0,0:07:49.20,0:07:51.18,Default,,0,0,0,,First faked staff. Please come out.
+Dialogue: 0,0:07:53.21,0:07:54.21,Default,,0,0,0,,Who is he?
+Dialogue: 0,0:07:58.08,0:07:59.93,Default,,0,0,0,,Eh? Is he the faked one?
+Dialogue: 0,0:08:00.21,0:08:05.42,Default,,0,0,0,,This staff told you that he was\Nthe chief producer.
+Dialogue: 0,0:08:05.50,0:08:08.87,Default,,0,0,0,,but actually he is an actor\Nwho is not related with this programme at all.
+Dialogue: 0,0:08:10.19,0:08:13.17,Default,,0,0,0,,Let's see if you guys still remember his name?
+Dialogue: 0,0:08:13.58,0:08:15.74,Default,,0,0,0,,This is easy.\N- Are you sure?
+Dialogue: 0,0:08:15.88,0:08:17.49,Default,,0,0,0,,because of this area?
+Dialogue: 0,0:08:18.52,0:08:19.33,Default,,0,0,0,,finished?
+Dialogue: 0,0:08:19.37,0:08:20.90,Default,,0,0,0,,Please show your answer!
+Dialogue: 0,0:08:24.27,0:08:25.61,Default,,0,0,0,,Everyone got the right answer...
+Dialogue: 0,0:08:27.61,0:08:29.54,Default,,0,0,0,,but Nako....
+Dialogue: 0,0:08:30.44,0:08:32.24,Default,,0,0,0,,Nako is the only one with the different answer
+Dialogue: 0,0:08:32.61,0:08:33.67,Default,,0,0,0,,She may got it correct.
+Dialogue: 0,0:08:33.87,0:08:35.82,Default,,0,0,0,,yes, she may be only one who got it.
+Dialogue: 0,0:08:35.85,0:08:37.57,Default,,0,0,0,,so let him tell his name.
+Dialogue: 0,0:08:38.00,0:08:40.40,Default,,0,0,0,,Excuse me, may I have your name please?
+Dialogue: 0,0:08:40.46,0:08:42.97,Default,,0,0,0,,Chief Producer, Usui.
+Dialogue: 0,0:08:44.13,0:08:46.56,Default,,0,0,0,,Only Nako got the wrong answer!
+Dialogue: 0,0:08:46.59,0:08:47.59,Default,,0,0,0,,This one is not that difficult, isn't it?
+Dialogue: 0,0:08:47.61,0:08:48.93,Default,,0,0,0,,yes, it's easy
+Dialogue: 0,0:08:48.95,0:08:49.90,Default,,0,0,0,,Nako answer was "Usu". She got some parts, did't she?
+Dialogue: 0,0:08:49.93,0:08:50.84,Default,,0,0,0,,yes, I can only remember that.
+Dialogue: 0,0:08:50.87,0:08:53.53,Default,,0,0,0,,If you could start the word correctly, the others wouldn't be any problem.
+Dialogue: 0,0:08:54.07,0:08:56.09,Default,,0,0,0,,yes, just remember "Usu" (bald). that should be enough.
+Dialogue: 0,0:08:56.10,0:08:58.70,Default,,0,0,0,,He played a gag which was not funny at all. Remember?
+Dialogue: 0,0:08:58.84,0:09:03.44,Default,,0,0,0,,I think the riceball taste\Nwas worse than the gag
+Dialogue: 0,0:09:03.46,0:09:05.22,Default,,0,0,0,,Was it that bad?
+Dialogue: 0,0:09:05.37,0:09:06.65,Default,,0,0,0,,I think because your tongue is used to high quality rice.
+Dialogue: 0,0:09:06.89,0:09:08.84,Default,,0,0,0,,Yes, because we are from Niigata.
+Dialogue: 0,0:09:08.87,0:09:10.42,Default,,0,0,0,,which is the place for growing rice, isn't it?
+Dialogue: 0,0:09:10.51,0:09:12.47,Default,,0,0,0,,and the next one is
+Dialogue: 0,0:09:16.55,0:09:17.55,Default,,0,0,0,,What is his name?
+Dialogue: 0,0:09:17.90,0:09:20.73,Default,,0,0,0,,He looks so real. It's difficult, isn't it?
+Dialogue: 0,0:09:20.76,0:09:22.23,Default,,0,0,0,,yes, he is.
+Dialogue: 0,0:09:22.25,0:09:23.32,Default,,0,0,0,,I wouldn't be surprised, if he were real.
+Dialogue: 0,0:09:23.35,0:09:24.68,Default,,0,0,0,,Please show your answer
+Dialogue: 0,0:09:27.15,0:09:28.72,Default,,0,0,0,,they are different?
+Dialogue: 0,0:09:28.75,0:09:29.89,Default,,0,0,0,,Shimada-san , Shimada-san...
+Dialogue: 0,0:09:30.02,0:09:31.02,Default,,0,0,0,,Santa-san?
+Dialogue: 0,0:09:31.05,0:09:32.05,Default,,0,0,0,,I am sorry
+Dialogue: 0,0:09:32.21,0:09:33.90,Default,,0,0,0,,Yamada-san's face is really funny, isn't it?
+Dialogue: 0,0:09:35.48,0:09:37.35,Default,,0,0,0,,eh! look at the board! Not my face please!
+Dialogue: 0,0:09:37.37,0:09:38.37,Default,,0,0,0,,She answered Santa-san
+Dialogue: 0,0:09:38.39,0:09:40.73,Default,,0,0,0,,Looks like almost everyone answered Shimada-san
+Dialogue: 0,0:09:40.90,0:09:41.90,Default,,0,0,0,,HKT
+Dialogue: 0,0:09:42.20,0:09:44.86,Default,,0,0,0,,Shimada-san , Shimada-san , Yoshida-san, Toshio-san
+Dialogue: 0,0:09:45.48,0:09:47.92,Default,,0,0,0,,Shimada-san , Shimada-san , Tano-san , Kobayashi-san
+Dialogue: 0,0:09:47.95,0:09:50.46,Default,,0,0,0,,Please give us the answer! Your name is?
+Dialogue: 0,0:09:51.26,0:09:53.23,Default,,0,0,0,,AD, Shimada.
+Dialogue: 0,0:09:54.64,0:09:57.93,Default,,0,0,0,,So NGT got 4 correct answers
+Dialogue: 0,0:09:57.99,0:10:01.85,Default,,0,0,0,,and... 1 2 3 4! It's equal!
+Dialogue: 0,0:10:02.14,0:10:03.92,Default,,0,0,0,,It's a great battle!
+Dialogue: 0,0:10:04.41,0:10:07.34,Default,,0,0,0,,Trying to read his name backward and you'll find out that...
+Dialogue: 0,0:10:07.72,0:10:08.72,Default,,0,0,0,,Damashi (faked)
+Dialogue: 0,0:10:13.24,0:10:14.24,Default,,0,0,0,,No clue, huh?
+Dialogue: 0,0:10:14.27,0:10:15.27,Default,,0,0,0,,Damn!
+Dialogue: 0,0:10:15.29,0:10:17.63,Default,,0,0,0,,When he got blamed, what did you think? Mio-chan.
+Dialogue: 0,0:10:17.73,0:10:19.70,Default,,0,0,0,,I thought "can he make it?"
+Dialogue: 0,0:10:19.72,0:10:24.05,Default,,0,0,0,,He also called us "AKB" which was totally wrong....
+Dialogue: 0,0:10:24.07,0:10:24.74,Default,,0,0,0,,yes
+Dialogue: 0,0:10:24.77,0:10:26.52,Default,,0,0,0,,Is he alright? this guy...
+Dialogue: 0,0:10:28.40,0:10:30.35,Default,,0,0,0,,How about you Natsumikan? Being called "AKB"
+Dialogue: 0,0:10:30.38,0:10:32.31,Default,,0,0,0,,I felt glad though.
+Dialogue: 0,0:10:32.53,0:10:34.13,Default,,0,0,0,,Yes, this is AKB. hahaha.
+Dialogue: 0,0:10:35.88,0:10:37.85,Default,,0,0,0,,The next one is..
+Dialogue: 0,0:10:40.05,0:10:43.06,Default,,0,0,0,,Ahhhh! This one... This one...He's that handsome man back there!
+Dialogue: 0,0:10:43.34,0:10:45.15,Default,,0,0,0,,Cool!
+Dialogue: 0,0:10:45.18,0:10:48.02,Default,,0,0,0,,Everyone is just too excited!
+Dialogue: 0,0:10:48.29,0:10:50.81,Default,,0,0,0,,I'm sorry but he also is our faked staff and\Nyou will never see him in the programme again!
+Dialogue: 0,0:10:50.83,0:10:51.83,Default,,0,0,0,,Ehhhh~~~
+Dialogue: 0,0:10:52.59,0:10:54.26,Default,,0,0,0,,I can see your sadness on your faces! You guys are just too obvious!
+Dialogue: 0,0:10:54.32,0:10:55.32,Default,,0,0,0,,Nooooooo
+Dialogue: 0,0:10:56.20,0:10:57.26,Default,,0,0,0,,It changes nothing!!
+Dialogue: 0,0:10:57.59,0:11:01.60,Default,,0,0,0,,By the way, I was surprised with Katomina's action back there.\NTo overtly offer her help to him!
+Dialogue: 0,0:11:02.02,0:11:05.08,Default,,0,0,0,,but I think there is someone who shocked me more than her!\NIt's Rika-chan!!!
+Dialogue: 0,0:11:05.19,0:11:06.19,Default,,0,0,0,,Rika-chan!
+Dialogue: 0,0:11:06.58,0:11:09.89,Default,,0,0,0,,Rika-chan, Do you know that how you react\N between riceball and macaron is totally different!
+Dialogue: 0,0:11:10.44,0:11:12.55,Default,,0,0,0,,I didn't have riceball but macaron
+Dialogue: 0,0:11:12.58,0:11:14.67,Default,,0,0,0,,did you? that's not good!
+Dialogue: 0,0:11:15.45,0:11:17.45,Default,,0,0,0,,Let's see the answer.Show you answer!
+Dialogue: 0,0:11:18.87,0:11:19.55,Default,,0,0,0,,NGT
+Dialogue: 0,0:11:19.57,0:11:21.24,Default,,0,0,0,,Ikarashi-san, Ichuin-san..
+Dialogue: 0,0:11:24.41,0:11:25.67,Default,,0,0,0,,What?? I can't read it.
+Dialogue: 0,0:11:25.70,0:11:26.70,Default,,0,0,0,,Ijimei-san
+Dialogue: 0,0:11:27.10,0:11:29.52,Default,,0,0,0,,and Ikemen or Nitto (wool hat)
+Dialogue: 0,0:11:29.54,0:11:30.54,Default,,0,0,0,,Macaron-san
+Dialogue: 0,0:11:30.57,0:11:34.10,Default,,0,0,0,,Oh! Katomina named him in such a international way!"Junk"
+Dialogue: 0,0:11:34.20,0:11:36.16,Default,,0,0,0,,What's on your mind?
+Dialogue: 0,0:11:36.19,0:11:38.27,Default,,0,0,0,,I just look at his face and...
+Dialogue: 0,0:11:38.30,0:11:39.51,Default,,0,0,0,,His face it too handsome, isn't it?
+Dialogue: 0,0:11:39.53,0:11:40.15,Default,,0,0,0,,yes
+Dialogue: 0,0:11:40.17,0:11:41.82,Default,,0,0,0,,All right! how about HKT?
+Dialogue: 0,0:11:41.84,0:11:42.84,Default,,0,0,0,,Kiryuin-san
+Dialogue: 0,0:11:43.76,0:11:46.21,Default,,0,0,0,,such a waste..Who is Kiryuin-san?
+Dialogue: 0,0:11:46.24,0:11:47.17,Default,,0,0,0,,Ichuin-san
+Dialogue: 0,0:11:47.19,0:11:48.08,Default,,0,0,0,,Sakurasaka-san
+Dialogue: 0,0:11:48.11,0:11:49.11,Default,,0,0,0,,Takeo-san
+Dialogue: 0,0:11:49.17,0:11:50.17,Default,,0,0,0,,Kobayashi-san
+Dialogue: 0,0:11:50.19,0:11:50.91,Default,,0,0,0,,Saito-san
+Dialogue: 0,0:11:50.94,0:11:51.90,Default,,0,0,0,,Ichuin-san
+Dialogue: 0,0:11:51.92,0:11:52.80,Default,,0,0,0,,Ryuonchi-san
+Dialogue: 0,0:11:52.84,0:11:55.71,Default,,0,0,0,,eh..but I got the feeling
+Dialogue: 0,0:11:55.73,0:11:56.50,Default,,0,0,0,,do you?
+Dialogue: 0,0:11:56.52,0:11:57.17,Default,,0,0,0,,It's too weird
+Dialogue: 0,0:11:57.20,0:11:57.94,Default,,0,0,0,,The feeling is right, I guess.
+Dialogue: 0,0:11:57.97,0:11:59.81,Default,,0,0,0,,Yes, but I don't think it the correct answer.
+Dialogue: 0,0:11:59.84,0:12:03.12,Default,,0,0,0,,Let him tell his name\NYour name, please.
+Dialogue: 0,0:12:03.15,0:12:04.84,Default,,0,0,0,,Assistant Producer, Ichuin.
+Dialogue: 0,0:12:04.87,0:12:10.27,Default,,0,0,0,,So each team got 2 correct answers\Nthen 2 points for both team
+Dialogue: 0,0:12:10.43,0:12:12.30,Default,,0,0,0,,What's on you mind when you see their answers?
+Dialogue: 0,0:12:12.95,0:12:14.20,Default,,0,0,0,,well, Tada-san...
+Dialogue: 0,0:12:14.22,0:12:14.91,Default,,0,0,0,,Ota-san!
+Dialogue: 0,0:12:14.93,0:12:15.42,Default,,0,0,0,,Sorry, Ota-san
+Dialogue: 0,0:12:15.44,0:12:17.64,Default,,0,0,0,,What!!! I can remember yours but you can't remember mine!!!
+Dialogue: 0,0:12:19.37,0:12:20.41,Default,,0,0,0,,Don't mess it up! Ichuin!!!
+Dialogue: 0,0:12:21.52,0:12:25.29,Default,,0,0,0,,I thought my charm got Ota-san
+Dialogue: 0,0:12:27.33,0:12:28.33,Default,,0,0,0,,Really?
+Dialogue: 0,0:12:28.67,0:12:31.65,Default,,0,0,0,,But actually I like the man who\Nis plain, not handsome.
+Dialogue: 0,0:12:33.05,0:12:33.59,Default,,0,0,0,,So you are not my type!
+Dialogue: 0,0:12:33.61,0:12:34.92,Default,,0,0,0,,Especially Natsumikan
+Dialogue: 0,0:12:34.95,0:12:37.45,Default,,0,0,0,,Well, actually I....... By the way,\Nyou are just a common guy?
+Dialogue: 0,0:12:37.47,0:12:38.26,Default,,0,0,0,,I am a model
+Dialogue: 0,0:12:39.75,0:12:40.75,Default,,0,0,0,,I see
+Dialogue: 0,0:12:40.78,0:12:42.28,Default,,0,0,0,,Indeed! I can tell from his face!
+Dialogue: 0,0:12:42.30,0:12:45.36,Default,,0,0,0,,"I can tell from his face"??\NWho are you??? How can you dare saying something like that?
+Dialogue: 0,0:12:45.42,0:12:51.08,Default,,0,0,0,,And the real AP is there.\NHanasuga-san.
+Dialogue: 0,0:12:51.11,0:12:52.11,Default,,0,0,0,,Hanasuga-san
+Dialogue: 0,0:12:55.19,0:12:59.06,Default,,0,0,0,,I guess everyone is thinking that\Nthis kind of face is really the real AP.
+Dialogue: 0,0:12:59.32,0:13:00.52,Default,,0,0,0,,Yes, I can tell from their faces
+Dialogue: 0,0:13:00.55,0:13:02.22,Default,,0,0,0,,but still more handsome than ever
+Dialogue: 0,0:13:03.00,0:13:03.94,Default,,0,0,0,,It's up to each person
+Dialogue: 0,0:13:03.96,0:13:04.81,Default,,0,0,0,,I don't think so
+Dialogue: 0,0:13:04.83,0:13:06.61,Default,,0,0,0,,And the next one is....
+Dialogue: 0,0:13:14.70,0:13:17.95,Default,,0,0,0,,All right! Let's see what's his name
+Dialogue: 0,0:13:20.14,0:13:20.96,Default,,0,0,0,,Goromaru-san
+Dialogue: 0,0:13:21.01,0:13:21.84,Default,,0,0,0,,Goromaru
+Dialogue: 0,0:13:21.87,0:13:23.43,Default,,0,0,0,,Athelete Goromaru, Goromaru-san
+Dialogue: 0,0:13:23.46,0:13:24.46,Default,,0,0,0,,Yasumura-san
+Dialogue: 0,0:13:24.48,0:13:26.12,Default,,0,0,0,,What? Yasumura-san
+Dialogue: 0,0:13:26.35,0:13:29.26,Default,,0,0,0,,Goromaru-san, Goromaru-san
+Dialogue: 0,0:13:29.31,0:13:30.31,Default,,0,0,0,,next
+Dialogue: 0,0:13:30.35,0:13:31.10,Default,,0,0,0,,Goromaru-san
+Dialogue: 0,0:13:31.15,0:13:33.65,Default,,0,0,0,,Goromaru-san, Goromaru-san, Goromaru-san
+Dialogue: 0,0:13:33.67,0:13:34.90,Default,,0,0,0,,Maeda-san, Goromaru-san
+Dialogue: 0,0:13:35.24,0:13:37.26,Default,,0,0,0,,Maeda-san???
+Dialogue: 0,0:13:38.11,0:13:38.99,Default,,0,0,0,,I'm sorry
+Dialogue: 0,0:13:39.02,0:13:40.02,Default,,0,0,0,,Whyyyy?
+Dialogue: 0,0:13:40.70,0:13:42.67,Default,,0,0,0,,It should be Goromaru-san then
+Dialogue: 0,0:13:43.13,0:13:44.09,Default,,0,0,0,,Isn't it?
+Dialogue: 0,0:13:44.12,0:13:46.24,Default,,0,0,0,,Let's listen the answer from him
+Dialogue: 0,0:13:46.27,0:13:49.27,Default,,0,0,0,,Sound director, Goromaru.
+Dialogue: 0,0:13:50.28,0:13:52.85,Default,,0,0,0,,It's the name that is easy to remember
+Dialogue: 0,0:13:52.88,0:13:54.79,Default,,0,0,0,,but still why can't Katomina remember it
+Dialogue: 0,0:13:55.24,0:13:58.37,Default,,0,0,0,,because it is not the trendy name any more so...
+Dialogue: 0,0:13:58.40,0:13:59.40,Default,,0,0,0,,It still is!
+Dialogue: 0,0:13:59.98,0:14:02.00,Default,,0,0,0,,Don't mess it up! That's not good.
+Dialogue: 0,0:14:02.54,0:14:06.81,Default,,0,0,0,,<We got only one question left and NGT is only 1 point ahead
+Dialogue: 0,0:14:08.47,0:14:13.25,Default,,0,0,0,,< And the question that will decide this battle is\NIf you can't remember his name, that will be terrible.
+Dialogue: 0,0:14:13.86,0:14:14.97,Default,,0,0,0,,Who?
+Dialogue: 0,0:14:15.63,0:14:17.03,Default,,0,0,0,,He is the real producer!
+Dialogue: 0,0:14:17.94,0:14:18.94,Default,,0,0,0,,He is the real deal of this channel
+Dialogue: 0,0:14:19.55,0:14:21.42,Default,,0,0,0,,And last question is him
+Dialogue: 0,0:14:26.21,0:14:27.21,Default,,0,0,0,,I can't remember at all
+Dialogue: 0,0:14:27.28,0:14:28.28,Default,,0,0,0,,Who is he???
+Dialogue: 0,0:14:29.38,0:14:30.38,Default,,0,0,0,,Who is heee??
+Dialogue: 0,0:14:30.60,0:14:34.43,Default,,0,0,0,,Well, he introduced himself as a camera man but
+Dialogue: 0,0:14:34.46,0:14:38.35,Default,,0,0,0,,He actually is this programme producer\Nthe real one
+Dialogue: 0,0:14:39.50,0:14:40.85,Default,,0,0,0,,He's genuine
+Dialogue: 0,0:14:41.12,0:14:43.80,Default,,0,0,0,,If you can't answer his name correctly or make him feel displeased
+Dialogue: 0,0:14:43.80,0:14:46.78,Default,,0,0,0,,He can end this programme immediately!
+Dialogue: 0,0:14:46.80,0:14:48.37,Default,,0,0,0,,What?? I'm scared!!
+Dialogue: 0,0:14:48.39,0:14:50.86,Default,,0,0,0,,To end this programme right now is also possible
+Dialogue: 0,0:14:51.18,0:14:52.81,Default,,0,0,0,,It's up to you guys
+Dialogue: 0,0:14:52.84,0:14:55.30,Default,,0,0,0,,Do you think that everyone still remembers your name?
+Dialogue: 0,0:14:56.49,0:14:59.43,Default,,0,0,0,,I think they all can't remember my existence at all\NThey will never make it
+Dialogue: 0,0:14:59.46,0:15:03.19,Default,,0,0,0,,I see, but do you still want them\Nto remember your name?
+Dialogue: 0,0:15:03.21,0:15:06.54,Default,,0,0,0,,I think so...If anyone can remember mine, I think I'm going to help her in this programme
+Dialogue: 0,0:15:08.94,0:15:10.47,Default,,0,0,0,,Honestly
+Dialogue: 0,0:15:10.50,0:15:11.02,Default,,0,0,0,,that makes sense
+Dialogue: 0,0:15:11.04,0:15:11.38,Default,,0,0,0,,yes
+Dialogue: 0,0:15:11.40,0:15:14.00,Default,,0,0,0,,And that name is also his real name.
+Dialogue: 0,0:15:14.03,0:15:16.76,Default,,0,0,0,,I didn't hear what he said back there
+Dialogue: 0,0:15:17.68,0:15:19.62,Default,,0,0,0,,That changes nothing. He is still our producer.
+Dialogue: 0,0:15:19.64,0:15:23.19,Default,,0,0,0,,I've just asked Rikatan here\Nand she also can't remember his name
+Dialogue: 0,0:15:23.29,0:15:26.63,Default,,0,0,0,,And that is already recorded so beware of what will happen
+Dialogue: 0,0:15:26.77,0:15:29.27,Default,,0,0,0,,Seriously, next episode you guys may not be able\Nto be here anymore.
+Dialogue: 0,0:15:29.99,0:15:31.66,Default,,0,0,0,,So it's the time to see your answers
+Dialogue: 0,0:15:33.64,0:15:34.93,Default,,0,0,0,,Nakamura-san, Nakamura-san
+Dialogue: 0,0:15:34.95,0:15:35.56,Default,,0,0,0,,nakata-san
+Dialogue: 0,0:15:35.61,0:15:36.20,Default,,0,0,0,,Kobayashi-san
+Dialogue: 0,0:15:36.27,0:15:37.20,Default,,0,0,0,,Nakamura-san, Nakamura-san
+Dialogue: 0,0:15:37.23,0:15:38.03,Default,,0,0,0,,Fukushima-san
+Dialogue: 0,0:15:38.06,0:15:38.85,Default,,0,0,0,,Kanda-san
+Dialogue: 0,0:15:38.87,0:15:39.76,Default,,0,0,0,,It's not. It's Samuta-san.
+Dialogue: 0,0:15:39.79,0:15:41.27,Default,,0,0,0,,Sorry, Samuta-san
+Dialogue: 0,0:15:41.92,0:15:43.35,Default,,0,0,0,,Well, sorry. Samuta-san
+Dialogue: 0,0:15:43.38,0:15:44.38,Default,,0,0,0,,Sorry
+Dialogue: 0,0:15:44.62,0:15:45.21,Default,,0,0,0,,Next is
+Dialogue: 0,0:15:45.25,0:15:46.62,Default,,0,0,0,,Kobayashi-san , Nakamura-san
+Dialogue: 0,0:15:46.65,0:15:47.72,Default,,0,0,0,,Yoshimura-san, Takamura-san
+Dialogue: 0,0:15:47.76,0:15:49.19,Default,,0,0,0,,Kobayashi-san, Tomita-san
+Dialogue: 0,0:15:49.33,0:15:50.09,Default,,0,0,0,,Naoe-san
+Dialogue: 0,0:15:50.11,0:15:51.11,Default,,0,0,0,,Yoshimura-san
+Dialogue: 0,0:15:52.14,0:15:54.05,Default,,0,0,0,,Still can't tell what the correct one is
+Dialogue: 0,0:15:54.08,0:15:55.08,Default,,0,0,0,,It's too various
+Dialogue: 0,0:15:55.10,0:15:56.17,Default,,0,0,0,,Yamada-san, Are you ok?
+Dialogue: 0,0:15:56.19,0:15:59.23,Default,,0,0,0,,Your face is like that for a while already
+Dialogue: 0,0:15:59.46,0:16:02.00,Default,,0,0,0,,It's such a funny face if you see it through the monitor
+Dialogue: 0,0:16:03.46,0:16:05.84,Default,,0,0,0,,It's really funny
+Dialogue: 0,0:16:06.04,0:16:09.39,Default,,0,0,0,,I'd like to tell that Yamada always call herself\N"Tomonaga Mio-san"
+Dialogue: 0,0:16:09.41,0:16:11.25,Default,,0,0,0,,Eh? really? I see
+Dialogue: 0,0:16:11.28,0:16:13.13,Default,,0,0,0,,It's not! Just kidding! It is.
+Dialogue: 0,0:16:16.35,0:16:18.30,Default,,0,0,0,,Other members also say they think the same
+Dialogue: 0,0:16:18.32,0:16:19.39,Default,,0,0,0,,I don't think so\N- it really is
+Dialogue: 0,0:16:19.41,0:16:20.15,Default,,0,0,0,,I don't like it
+Dialogue: 0,0:16:20.18,0:16:20.80,Default,,0,0,0,,What do you think, Mio-chan?
+Dialogue: 0,0:16:20.83,0:16:22.84,Default,,0,0,0,,I'd like to cry. I don't like it at all.
+Dialogue: 0,0:16:24.76,0:16:26.54,Default,,0,0,0,,Let's have both to stand next to each other
+Dialogue: 0,0:16:26.86,0:16:28.43,Default,,0,0,0,,Let's see
+Dialogue: 0,0:16:28.46,0:16:29.62,Default,,0,0,0,,Are you sure?
+Dialogue: 0,0:16:29.64,0:16:30.08,Default,,0,0,0,,Yes
+Dialogue: 0,0:16:30.11,0:16:32.27,Default,,0,0,0,,I don't want to...or else everyone will know the truth
+Dialogue: 0,0:16:32.30,0:16:33.12,Default,,0,0,0,,What truth?
+Dialogue: 0,0:16:33.15,0:16:34.28,Default,,0,0,0,,I'd like to see it
+Dialogue: 0,0:16:35.24,0:16:39.33,Default,,0,0,0,,< Then will Tomonaga and Yamada look alike?
+Dialogue: 0,0:16:39.35,0:16:40.42,Default,,0,0,0,,Come and stand close to each other
+Dialogue: 0,0:16:41.23,0:16:42.38,Default,,0,0,0,,They look alike when they are smiling
+Dialogue: 0,0:16:42.41,0:16:44.01,Default,,0,0,0,,yes, they are
+Dialogue: 0,0:16:45.65,0:16:46.65,Default,,0,0,0,,yes
+Dialogue: 0,0:16:48.73,0:16:52.26,Default,,0,0,0,,It is like the older sister who has just become a city girl\N and the younger sister who still lives in suburb
+Dialogue: 0,0:16:54.30,0:16:57.11,Default,,0,0,0,,All right! Let him tell us what his name is
+Dialogue: 0,0:16:57.14,0:16:57.91,Default,,0,0,0,,What's your name?
+Dialogue: 0,0:16:57.93,0:17:00.70,Default,,0,0,0,,Nice to meet you\NEveryone, nice to meet you
+Dialogue: 0,0:17:00.73,0:17:03.57,Default,,0,0,0,,NTV Producer\NNakamura
+Dialogue: 0,0:17:07.30,0:17:09.20,Default,,0,0,0,,Yeah! I got it!
+Dialogue: 0,0:17:09.39,0:17:13.19,Default,,0,0,0,,HKT48 got 4 points\Nand NGT got 1 point
+Dialogue: 0,0:17:13.22,0:17:14.42,Default,,0,0,0,,Are you guys ok?
+Dialogue: 0,0:17:15.95,0:17:17.28,Default,,0,0,0,,yes, are you guys really ok?
+Dialogue: 0,0:17:17.31,0:17:20.26,Default,,0,0,0,,From my observation it looks like\NOtaki often got the correct answer
+Dialogue: 0,0:17:20.29,0:17:21.46,Default,,0,0,0,,Yes, I got it all correct!
+Dialogue: 0,0:17:21.49,0:17:22.06,Default,,0,0,0,,That's great!
+Dialogue: 0,0:17:22.10,0:17:25.23,Default,,0,0,0,,Her appearance may look like that but\Nshe is really a good serious girl
+Dialogue: 0,0:17:25.96,0:17:27.20,Default,,0,0,0,,It may look incoherent
+Dialogue: 0,0:17:27.23,0:17:28.74,Default,,0,0,0,,I do take it seriously when it's about relationship
+Dialogue: 0,0:17:28.74,0:17:29.91,Default,,0,0,0,,so I always observe everyone
+Dialogue: 0,0:17:31.15,0:17:34.44,Default,,0,0,0,,And that's all we got today!
+Dialogue: 0,0:17:34.96,0:17:36.58,Default,,0,0,0,,The result is
+Dialogue: 0,0:17:36.99,0:17:39.64,Default,,0,0,0,,NGT48 got 22 points
+Dialogue: 0,0:17:40.95,0:17:44.06,Default,,0,0,0,,HKT48 got 24 points
+Dialogue: 0,0:17:45.50,0:17:47.29,Default,,0,0,0,,HKT48 is the winner
+Dialogue: 0,0:17:49.07,0:17:52.54,Default,,0,0,0,,And that is our first furious battle!
+Dialogue: 0,0:17:52.57,0:17:54.10,Default,,0,0,0,,Katomina-chan, what do you think?
+Dialogue: 0,0:17:54.13,0:17:58.89,Default,,0,0,0,,I'm quite annoyed with my own bad memory.
+Dialogue: 0,0:17:59.79,0:18:01.45,Default,,0,0,0,,so you're annoyed with yourself
+Dialogue: 0,0:18:01.49,0:18:02.02,Default,,0,0,0,,Are you ok?
+Dialogue: 0,0:18:02.26,0:18:03.24,Default,,0,0,0,,Where is the luxury cafe?
+Dialogue: 0,0:18:03.26,0:18:05.57,Default,,0,0,0,,It's totally different from the picture
+Dialogue: 0,0:18:06.25,0:18:09.04,Default,,0,0,0,,<The members will go travelling after this
+Dialogue: 0,0:18:09.07,0:18:10.24,Default,,0,0,0,,SashiKita Furious Battle
+Dialogue: 0,0:18:10.32,0:18:12.32,Default,,0,0,0,,<Official announcement from the programme
+Dialogue: 0,0:18:13.33,0:18:16.19,Default,,0,0,0,,<SashiKita Furious Battle will also be broadcasted via Internet
+Dialogue: 0,0:18:16.19,0:18:21.00,Default,,0,0,0,,<You can find it on Hulu and NTV On Demand
+Dialogue: 0,0:18:21.56,0:18:23.89,Default,,0,0,0,,<For more information please visit our programme official website
+Dialogue: 0,0:18:25.12,0:18:27.25,Default,,0,0,0,,< She who debuted as a part-time AKB but
+Dialogue: 0,0:18:27.59,0:18:31.61,Default,,0,0,0,,< after passing tests,\Nnow she got promoted to NGT
+Dialogue: 0,0:18:32.91,0:18:34.09,Default,,0,0,0,,<Ogino Yuka
+Dialogue: 0,0:18:35.23,0:18:36.73,Default,,0,0,0,,<Nishigata Marina
+Dialogue: 0,0:18:37.91,0:18:39.21,Default,,0,0,0,,<Seiji Reina
+Dialogue: 0,0:18:39.64,0:18:40.59,Default,,0,0,0,,Sorry to keep you waiting
+Dialogue: 0,0:18:40.61,0:18:44.70,Default,,0,0,0,,<Those are serious feelings\Nwhich we still do not know
+Dialogue: 0,0:18:46.09,0:18:50.88,Default,,0,0,0,,<HKT48 x NGT48 Eating Wanderer girls
+Dialogue: 0,0:18:52.59,0:18:53.93,Default,,0,0,0,,Still not there yet? Eh?
+Dialogue: 0,0:18:53.95,0:18:56.24,Default,,0,0,0,,Well, I still can't see anywhere that\Nlooks like the place we are going to
+Dialogue: 0,0:18:56.27,0:18:57.14,Default,,0,0,0,,Can't find it at all
+Dialogue: 0,0:18:57.16,0:18:58.26,Default,,0,0,0,,Are we lost?
+Dialogue: 0,0:18:58.29,0:18:59.20,Default,,0,0,0,,wrong way?
+Dialogue: 0,0:18:59.22,0:18:59.86,Default,,0,0,0,,but
+Dialogue: 0,0:19:00.06,0:19:01.06,Default,,0,0,0,,Don't tell me that..
+Dialogue: 0,0:19:03.43,0:19:05.54,Default,,0,0,0,,Wait wait. Look!
+Dialogue: 0,0:19:05.58,0:19:06.58,Default,,0,0,0,,Eh? It's old.
+Dialogue: 0,0:19:07.21,0:19:09.66,Default,,0,0,0,,so it's different from what you imagined then
+Dialogue: 0,0:19:09.68,0:19:11.69,Default,,0,0,0,,yes, totally different
+Dialogue: 0,0:19:11.72,0:19:14.60,Default,,0,0,0,,it ruined what I imagined\NIt should be a luxury cafe, shouldn't it?
+Dialogue: 0,0:19:14.63,0:19:16.33,Default,,0,0,0,,but old places always get more delicious foods though.
+Dialogue: 0,0:19:16.35,0:19:17.25,Default,,0,0,0,,let's try
+Dialogue: 0,0:19:17.28,0:19:18.00,Default,,0,0,0,,ok
+Dialogue: 0,0:19:18.98,0:19:19.98,Default,,0,0,0,,Welcome!
+Dialogue: 0,0:19:20.02,0:19:20.82,Default,,0,0,0,,ok, let's get in
+Dialogue: 0,0:19:20.84,0:19:21.84,Default,,0,0,0,,Excuse me
+Dialogue: 0,0:19:22.97,0:19:25.25,Default,,0,0,0,,Sorry to keep you waiting. Here is your curry ramen
+Dialogue: 0,0:19:25.28,0:19:26.28,Default,,0,0,0,,oh! here it is
+Dialogue: 0,0:19:28.20,0:19:29.20,Default,,0,0,0,,it made me hungrier
+Dialogue: 0,0:19:29.22,0:19:29.84,Default,,0,0,0,,looks delicious
+Dialogue: 0,0:19:30.44,0:19:31.92,Default,,0,0,0,,but it's quite different from other ramens
+Dialogue: 0,0:19:31.94,0:19:32.80,Default,,0,0,0,,it is
+Dialogue: 0,0:19:32.82,0:19:34.09,Default,,0,0,0,,it's served with rice
+Dialogue: 0,0:19:34.12,0:19:34.93,Default,,0,0,0,,great
+Dialogue: 0,0:19:34.95,0:19:35.95,Default,,0,0,0,,Thank you
+Dialogue: 0,0:19:36.34,0:19:37.12,Default,,0,0,0,,It looks great
+Dialogue: 0,0:19:37.14,0:19:39.32,Default,,0,0,0,,Curry rice is here
+Dialogue: 0,0:19:39.36,0:19:39.89,Default,,0,0,0,,Thanks
+Dialogue: 0,0:19:39.91,0:19:41.09,Default,,0,0,0,,eh? why does it come with dessert?
+Dialogue: 0,0:19:41.12,0:19:42.12,Default,,0,0,0,,Thanks
+Dialogue: 0,0:19:42.14,0:19:44.18,Default,,0,0,0,,Served with dessert is great, isn't it?
+Dialogue: 0,0:19:44.20,0:19:46.15,Default,,0,0,0,,Omelet rice is here!\N- wow
+Dialogue: 0,0:19:46.97,0:19:48.57,Default,,0,0,0,,Shall we eat and talk at the same time?
+Dialogue: 0,0:19:48.94,0:19:51.91,Default,,0,0,0,,1 2...Let's eat
+Dialogue: 0,0:19:51.97,0:19:54.25,Default,,0,0,0,,let's eat
+Dialogue: 0,0:19:57.02,0:19:58.02,Default,,0,0,0,,let's eat
+Dialogue: 0,0:19:58.57,0:19:59.57,Default,,0,0,0,,Delicious
+Dialogue: 0,0:19:59.60,0:20:00.42,Default,,0,0,0,,really?
+Dialogue: 0,0:20:00.45,0:20:01.92,Default,,0,0,0,,It's not too spicy
+Dialogue: 0,0:20:01.94,0:20:02.72,Default,,0,0,0,,let's eat
+Dialogue: 0,0:20:03.35,0:20:05.63,Default,,0,0,0,,I'm hungry so it's more delicious
+Dialogue: 0,0:20:05.68,0:20:08.62,Default,,0,0,0,,It is so delicious
+Dialogue: 0,0:20:10.23,0:20:14.43,Default,,0,0,0,,< Nishigata applied for AKB but\N couldn't make it and failed 6 years ago
+Dialogue: 0,0:20:15.39,0:20:17.59,Default,,0,0,0,,< And got qualified to be part-time AKB
+Dialogue: 0,0:20:17.59,0:20:19.63,Default,,0,0,0,,< when she was 18 years old
+Dialogue: 0,0:20:19.61,0:20:21.54,Default,,0,0,0,,< and in the 2nd draft
+Dialogue: 0,0:20:21.56,0:20:23.96,Default,,0,0,0,,< she became an official NGT member
+Dialogue: 0,0:20:24.49,0:20:28.68,Default,,0,0,0,,< The thing that pushed her into\Nsadness and disappointment is
+Dialogue: 0,0:20:29.72,0:20:35.00,Default,,0,0,0,,Do you remember when we were at our part-time performance\NIt was only me who got blamed
+Dialogue: 0,0:20:35.02,0:20:36.02,Default,,0,0,0,,yes, I do
+Dialogue: 0,0:20:36.05,0:20:37.11,Default,,0,0,0,,yes, it really did
+Dialogue: 0,0:20:37.14,0:20:38.08,Default,,0,0,0,,The dance instructor was very strict
+Dialogue: 0,0:20:38.11,0:20:39.00,Default,,0,0,0,,yes, very strict
+Dialogue: 0,0:20:39.02,0:20:41.47,Default,,0,0,0,,you were only the one who got blamed
+Dialogue: 0,0:20:41.49,0:20:42.66,Default,,0,0,0,,I see, It's you, Gatapi
+Dialogue: 0,0:20:42.70,0:20:47.57,Default,,0,0,0,,That time I felt like being here was not the place for me\NI was so stressed out
+Dialogue: 0,0:20:47.59,0:20:51.12,Default,,0,0,0,,In the 3rd round of the draft qualification
+Dialogue: 0,0:20:51.79,0:20:57.49,Default,,0,0,0,,where I got qualified\Nbut I was not sure which way I should take.
+Dialogue: 0,0:20:57.52,0:20:58.19,Default,,0,0,0,,yes
+Dialogue: 0,0:20:58.29,0:21:02.28,Default,,0,0,0,,I thought that I will not go on the actual day
+Dialogue: 0,0:21:02.50,0:21:04.26,Default,,0,0,0,,yes, it sounded very serious
+Dialogue: 0,0:21:04.29,0:21:07.95,Default,,0,0,0,,I told myself that it's not my place\Nand I shouldn't go
+Dialogue: 0,0:21:07.98,0:21:08.98,Default,,0,0,0,,Gatapi!!
+Dialogue: 0,0:21:12.44,0:21:14.81,Default,,0,0,0,,That's your story, I've just known
+Dialogue: 0,0:21:15.52,0:21:16.52,Default,,0,0,0,,Here is tissue
+Dialogue: 0,0:21:17.59,0:21:19.06,Default,,0,0,0,,Thanks, Seiji-chan
+Dialogue: 0,0:21:19.08,0:21:20.08,Default,,0,0,0,,You looks terrible
+Dialogue: 0,0:21:20.34,0:21:22.78,Default,,0,0,0,,You're older than me. Don't be like this
+Dialogue: 0,0:21:22.93,0:21:25.06,Default,,0,0,0,,Do you know that the older, the easier to cry.
+Dialogue: 0,0:21:25.56,0:21:28.58,Default,,0,0,0,,I'm just 16 but she is 20 already
+Dialogue: 0,0:21:30.26,0:21:34.72,Default,,0,0,0,,< After this CM, we have next episode sample for everyone
+Dialogue: 0,0:21:34.98,0:21:37.45,Default,,0,0,0,,When you failed so many times,\N did you think to give up on your dream?
+Dialogue: 0,0:21:37.48,0:21:39.95,Default,,0,0,0,,I did, I seriously thought that I don't belong to this place
+Dialogue: 0,0:21:41.74,0:21:49.54,Default,,0,0,0,,< Please check the full episode of Ogino's sad story on Hulu
+Dialogue: 0,0:21:50.85,0:21:54.44,Default,,0,0,0,,< Next episode! Which member will be selected\Nfrom the foreigner that they were fake idol!
+Dialogue: 0,0:22:03.65,0:22:04.65,Default,,0,0,0,,I love you
+Dialogue: 0,0:22:05.29,0:22:07.57,Default,,0,0,0,,I want you I need you
+Dialogue: 0,0:22:07.77,0:22:08.83,Default,,0,0,0,,You are the fake one!
+Dialogue: 0,0:22:10.81,0:22:13.01,Default,,0,0,0,,<This will be the first time for NGT members to get face slammed in cake
